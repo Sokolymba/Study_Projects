@@ -8,6 +8,10 @@
 
 Исследование рынка видеоигр игр: используя данные о продажах игр, оценках, жанрах и платформах, я определил закономерности и признаки успешности игр.
 
+#### Используемые библиотеки
+
+Pandas, PyMystem3, Datetime, Matplotlib, Seaborn, Numpy, Stats
+
 
 ----
 
@@ -16,6 +20,10 @@
 #### Описание проекта
 
 Исследование данных авиакомпании: выявление предпочтений пользователей, приобретающих авиабилеты на те или иные направления.
+
+#### Используемые библиотеки
+
+Pandas, PyMystem3, Datetime, Matplotlib, Seaborn, Numpy, Stats
 
 
 ---
@@ -26,6 +34,10 @@
 
 Подготовка списка гипотез для увеличения выручки интернет-магазина и анализ результатов A/B-теста.
 
+#### Используемые библиотеки
+
+Pandas, Random, Datetime, Matplotlib, Seaborn, Numpy, Stats
+
 
 ---
 
@@ -34,3 +46,7 @@
 #### Описание проекта
 
 Построение модели прогнозирования оттока и последующая кластеризация клиентов фитнес-центра.
+
+#### Используемые библиотеки
+
+Pandas, Math, Numpy, Stats, Matplotlib, Seaborn, Plotly, sklearn.linear_model, sklearn.ensemble, sklearn.model_selection, warnings, sklearn.metrics, sklearn.preprocessing, scipy.cluster.hierarchy, sklearn.cluster
