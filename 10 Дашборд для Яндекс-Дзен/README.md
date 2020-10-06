@@ -22,9 +22,3 @@
 - *sqlalchemy*
 
 ## Дашборд доступен по ссылке: https://public.tableau.com/views/__15971390897040/sheet0?:language=en&:display_count=y&:origin=viz_share_link
-
-## Данные
-
-Для анализа были доступны данные:
-
-- дамп базы данных Яндекс.Дзен
