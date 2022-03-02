@@ -14,7 +14,7 @@
 - *seaborn*
 - *matplotlib*
 - *numpy*
-- *stats*
+- *scipy*
 - *pymystem3*
 - *Counter*
 
