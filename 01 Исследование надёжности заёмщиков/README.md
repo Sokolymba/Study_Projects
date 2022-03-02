@@ -18,7 +18,7 @@
 - *matplotlib*
 - *scipy*
 - *Mystem*
-- *Counter
+- *Counter*
 
 ## Статус проекта:
 - Завершен.
