@@ -174,7 +174,7 @@ def test_report (Chat = None):
     
     bot.sendPhoto(chat_id = chat_id, photo = plot_object_data_os)
     
-
+# запустим функцию для отправки отчета
 try:
     test_report()
 except Exception as e:
