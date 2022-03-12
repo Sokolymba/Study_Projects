@@ -14,7 +14,7 @@
 - *seaborn*
 - *matplotlib*
 - *scipy*
-- read_db.CH*
+- *read_db.CH*
 - *tqdm.auto*
 
 ## Статус проекта
