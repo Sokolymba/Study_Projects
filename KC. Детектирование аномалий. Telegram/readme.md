@@ -17,7 +17,7 @@
 - *locale*
 - *io*
 - *os*
-- *seabron*
+- *seaborn*
 - *read_db.CH*
 
 ## Статус проекта
